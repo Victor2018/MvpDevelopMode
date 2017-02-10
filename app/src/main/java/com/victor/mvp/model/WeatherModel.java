@@ -1,0 +1,1 @@
+package com.victor.mvp.model;import com.victor.mvp.presenter.OnWeatherListener;/** * Created by victor on 2017/2/8. * 天气Model接口 */public interface WeatherModel {    void loadWeather(String cityNO, OnWeatherListener listener);}
