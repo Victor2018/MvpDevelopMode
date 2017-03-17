@@ -4,7 +4,7 @@
 # 关注开发者：
 - 邮箱： victor423099@gmail.com
 - 新浪微博
-- ![image](https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/sina_weibo.jpg)
+- ![image](https://github.com/Victor2018/MvpDevelopMode/raw/master/SrceenShot/sina_weibo.jpg)
 
 ## License
 
